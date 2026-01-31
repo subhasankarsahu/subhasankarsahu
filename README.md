@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Subha Sankar 👋
 
-<!--
-**subhasankarsahu/subhasankarsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering student who enjoys building things that actually work — from full-stack web apps to beginner-friendly AI and machine learning projects.
 
-Here are some ideas to get you started:
+Right now, I’m focused on strengthening my fundamentals and applying them through hands-on projects rather than just tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+- Building **full-stack web applications** using React and Node.js  
+- Exploring **AI & Machine Learning** with Python  
+- Combining **AI ideas with web interfaces** to create practical projects  
+- Improving code quality, project structure, and documentation  
+
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- React, HTML, CSS, JavaScript  
+
+**Backend**
+- Node.js, Express  
+
+**Databases**
+- MongoDB  
+
+**AI / ML**
+- Python  
+- OpenCV  
+- Basic Machine Learning concepts  
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📌 Featured Interests
+- Full-Stack Development  
+- AI-powered web applications  
+- Problem solving & clean code  
+- Learning by building real projects  
+
+---
+
+## 📚 Currently Learning
+- Advanced React patterns  
+- Backend architecture & APIs  
+- Applying ML models in real-world scenarios  
+
+---
+
+## 🎯 Goal
+To become a **full-stack developer capable of building AI-driven applications**, with strong fundamentals and real project experience.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/subhasankarsahu
+
+Thanks for stopping by 🙂
