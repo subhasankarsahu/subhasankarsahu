@@ -1,4 +1,4 @@
-# Hi, I'm Subha Sankar 👋
+# Hi, I'm Subha👋
 
 I'm a Computer Science & Engineering student who enjoys building things that actually work — from full-stack web apps to beginner-friendly AI and machine learning projects.
 
