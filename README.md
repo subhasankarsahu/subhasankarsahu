@@ -44,6 +44,7 @@ Right now, I’m focused on strengthening my fundamentals and applying them thro
 ---
 
 ## 📚 Currently Learning
+- Full Stack Project
 - Advanced React patterns  
 - Backend architecture & APIs  
 - Applying ML models in real-world scenarios  
