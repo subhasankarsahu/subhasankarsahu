@@ -1,61 +1,46 @@
-# Hi, I'm Subha👋
+# Hi, I'm Subha 👋
 
-I'm a Computer Science & Engineering student who enjoys building things that actually work — from full-stack web apps to beginner-friendly AI and machine learning projects.
+I'm a CS&E student who builds things that actually work — full-stack web apps, AI-powered interfaces, and everything in between. I care more about understanding how things work under the hood than following tutorials step by step.
 
-Right now, I’m focused on strengthening my fundamentals and applying them through hands-on projects rather than just tutorials.
-
----
-
-## 🚀 What I’m Working On
-- Building **full-stack web applications** using React and Node.js  
-- Exploring **AI & Machine Learning** with Python  
-- Combining **AI ideas with web interfaces** to create practical projects  
-- Improving code quality, project structure, and documentation  
+Right now I'm focused on sharpening my fundamentals through real projects, not just collecting courses.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend**
-- React, HTML, CSS, JavaScript  
+## 🚀 What I'm Working On
 
-**Backend**
-- Node.js, Express  
-
-**Databases**
-- MongoDB  
-
-**AI / ML**
-- Python  
-- OpenCV  
-- Basic Machine Learning concepts  
-
-**Tools**
-- Git & GitHub  
-- VS Code  
+- Full-stack web apps with **React** and **Node.js**
+- AI & ML experiments with **Python** and **OpenCV**
+- Bridging the gap between ML ideas and usable web interfaces
+- Writing cleaner code, better APIs, and actually useful documentation
 
 ---
 
-## 📌 Featured Interests
-- Full-Stack Development  
-- AI-powered web applications  
-- Problem solving & clean code  
-- Learning by building real projects  
+## 🛠️ Tech Stack
+
+**Frontend** — React, JavaScript, HTML, CSS  
+**Backend** — Node.js, Express  
+**Database** — MongoDB  
+**AI / ML** — Python, OpenCV, core ML concepts  
+**Tools** — Git, GitHub, VS Code
 
 ---
 
 ## 📚 Currently Learning
-- Advanced React patterns  
-- Backend architecture & APIs  
-- Applying ML models in real-world scenarios  
+
+- Advanced React patterns
+- Backend architecture & API design
+- Deploying ML models into real-world apps
 
 ---
 
 ## 🎯 Goal
-To become a **full-stack developer capable of building AI-driven applications**, with strong fundamentals and real project experience.
+
+Become a full-stack developer who can build AI-driven applications — with strong fundamentals, clean code, and real projects to back it up.
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/subhasankarsahu
+## 📫 Find Me Here
+
+- GitHub: [github.com/subhasankarsahu](https://github.com/subhasankarsahu)
 
 Thanks for stopping by 🙂
