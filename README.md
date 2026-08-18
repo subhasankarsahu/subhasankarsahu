@@ -1,46 +1,70 @@
-# Hi, I'm Subha 👋
+# Hi, I'm Subha
 
-I'm a CS&E student who builds things that actually work — full-stack web apps, AI-powered interfaces, and everything in between. I care more about understanding how things work under the hood than following tutorials step by step.
+I'm a Computer Science & Engineering student focused on building software with strong fundamentals, practical problem-solving skills, and real-world impact. I enjoy understanding how systems work under the hood rather than relying solely on tutorials, and I believe the best way to learn is by building projects that solve meaningful problems.
 
-Right now I'm focused on sharpening my fundamentals through real projects, not just collecting courses.
+My interests span full-stack development, AI-powered applications, backend systems, and data structures & algorithms. Alongside building products, I'm continuously improving my problem-solving ability through structured DSA practice and pattern-based learning.
 
----
+## What I'm Working On
 
-## 🚀 What I'm Working On
+* Building full-stack web applications with React and Node.js
+* Developing AI-powered applications and computer vision projects using Python and OpenCV
+* Integrating machine learning models into usable web products
+* Designing scalable backend architectures and clean APIs
+* Writing maintainable, well-documented, and production-oriented code
+* Strengthening problem-solving skills through DSA and LeetCode patterns
 
-- Full-stack web apps with **React** and **Node.js**
-- AI & ML experiments with **Python** and **OpenCV**
-- Bridging the gap between ML ideas and usable web interfaces
-- Writing cleaner code, better APIs, and actually useful documentation
+## Tech Stack
 
----
+### Frontend
 
-## 🛠️ Tech Stack
+* React
+* JavaScript
+* HTML
+* CSS
 
-**Frontend** — React, JavaScript, HTML, CSS  
-**Backend** — Node.js, Express  
-**Database** — MongoDB  
-**AI / ML** — Python, OpenCV, core ML concepts  
-**Tools** — Git, GitHub, VS Code
+### Backend
 
----
+* Node.js
+* Express.js
 
-## 📚 Currently Learning
+### Database
 
-- Advanced React patterns
-- Backend architecture & API design
-- Deploying ML models into real-world apps
+* MongoDB
 
----
+### AI / ML
 
-## 🎯 Goal
+* Python
+* OpenCV
+* Machine Learning Fundamentals
 
-Become a full-stack developer who can build AI-driven applications — with strong fundamentals, clean code, and real projects to back it up.
+### Tools
 
----
+* Git
+* GitHub
+* VS Code
 
-## 📫 Find Me Here
+### DSA
 
-- GitHub: [github.com/subhasankarsahu](https://github.com/subhasankarsahu)
+* Python
+* C++
 
-Thanks for stopping by 🙂
+## Currently Learning
+
+* Advanced React patterns and application architecture
+* Backend design principles and scalable API development
+* Deployment and integration of machine learning models
+* Data Structures & Algorithms with a focus on patterns and problem-solving techniques
+* System design fundamentals
+
+## Goals
+
+* Become a strong full-stack developer with deep engineering fundamentals
+* Build AI-driven applications that are practical, scalable, and user-focused
+* Develop expertise in software architecture, backend systems, and problem solving
+* Create a portfolio of projects that demonstrate both technical depth and real-world impact
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/subha-sankar-sahu
+
+Thanks for visiting my profile.
