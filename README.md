@@ -30,6 +30,7 @@ My interests span full-stack development, backend engineering, AI-powered applic
 * REST APIs
 * JWT Authentication
 * Middleware Architecture
+* Redis
 
 ### Database
 
@@ -50,6 +51,7 @@ My interests span full-stack development, backend engineering, AI-powered applic
 * VS Code
 * Postman
 * Cloudinary
+* Docker
 
 ### DSA
 
