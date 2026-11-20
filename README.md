@@ -65,7 +65,7 @@
   </a>
 </p>
 
-**AI-powered cyber defense platform. Detect threats in seconds. Respond in minutes. Protect everyone.**
+**A Unified Security Operations & Threat Intelligence Platform.**
 
 CyberGuard combines real-time threat detection with automated security operations. It protects individual users from phishing, malware, and deepfakes, and gives enterprise security teams AI-assisted investigation and automated response. It targets the gap between traditional rule-based tools and modern AI-generated attacks.
 
